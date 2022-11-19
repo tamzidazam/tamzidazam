@@ -1,15 +1,13 @@
-### Hi there 👋
-<!--
-**tamzidazam/tamzidazam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋, I'm Tamzid Azam
+A doctor by profession and a passionate developer by choice
+🔭 I’m currently working on SciRx
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Dart
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on https://smartpedi.rimikri.com/
+
+🤝 I’m looking for help with SmartPedi
+
+📝 I regularly write articles on https://blog.markcite.com/
+
+📫 How to reach me rajib.biswas@markcite.com
