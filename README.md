@@ -11,12 +11,25 @@
     </a>
   </p>
 </div>
+
+<hr style="border-top: 3px dashed #888; margin: 20px auto; width: 80%;">
+<div>
+  <h2 align="center">Connect with My Digital Persona! 🌐</h2>
+  <p align="center">
+    <a href="https://www.facebook.com/Erebus041" target="_blank" style="text-decoration: none; margin: 0 15px;">
+      <span style="font-size: 2.5em; color: #1877F2;">📘</span> <span style="color: #66FFFF; font-weight: bold;">Facebook</span>
+    </a>
+    <a href="http://linkedin.com/in/tamzidazam" target="_blank" style="text-decoration: none; margin: 0 15px;">
+      <span style="font-size: 2.5em; color: #0A66C2;">🔗</span> <span style="color: #66FFFF; font-weight: bold;">LinkedIn</span>
+    </a>
+  </p>
+</div>
 <hr style="border-top: 3px dashed #888; margin: 20px auto; width: 80%;">
 <div>
   <h2 align="center">Personal Data 🧠</h2>
   <p align="center">
     <strong><span style="color: #00FFFF;">About Me</span></strong> 📡<br>
-   Well, What to write about myself. I am a typical web developer with extra ordinary skills and high tech knowledge. I started studying about web development since 2016 and yet learning. Well, knowledge has no end! 🌌
+    Well, What to write about myself. I am a typical web developer with extra ordinary skills and high tech knowledge. I started studying about web development since 2016 and yet learning. Well, knowledge has no end! 🌌
   </p>
   <br>
   <p style="text-align: left;">
