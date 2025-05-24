@@ -19,21 +19,22 @@
     I'm not your average code-slinger; I'm a *synth-wave* web developer with a neural network buzzing with extraordinary skills and high-tech knowledge! My journey into the digital cosmos began in `2016`, and the learning never halts – for true knowledge, like the universe, is infinite! 🌌
   </p>
   <br>
-  <p style="text-align: left;"> <strong>Chronicles of Knowledge Acquisition</strong> 📚<br> <br>
-    🎓 North South University<br> Bachelor of Business Administration - BBA, Management Information Systems and Services<br>
-    Jul 2023 - Jul 2027<br>
-    Grade: A-<br>
+  <p style="text-align: left;">
+    <strong>Chronicles of Knowledge Acquisition</strong> 📚<br>
     <br>
-    🏫 St. Joseph Higher Secondary School<br> High School Diploma, Business/Commerce, General<br>
-    Oct 2020 - May 2023<br>
+    🎓 North South University<br>
+    Bachelor of Business Administration - BBA, Management Information Systems and Services<br>
+    <br>
+    🏫 St. Joseph Higher Secondary School<br>
+    High School Diploma, Business/Commerce, General<br>
     College<br>
     Skills: Writing ✍️<br>
     <br>
-    🏫 Mohammadpur Preparatory School & College<br> Business/Commerce, General<br>
-    2014 - 2018<br>
+    🏫 Mohammadpur Preparatory School & College<br>
+    Business/Commerce, General<br>
     Read till High School<br>
     <br>
-    🏫 London Grace International School<br> 2007 - 2014<br>
+    🏫 London Grace International School<br>
     Elementary school 🌟
   </p>
 </div>
