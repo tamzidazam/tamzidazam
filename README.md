@@ -4,5 +4,5 @@
 </div>
 <div>
   <h2 align="center">My Trophies</h2>
-[![trophy](https://github-profile-trophy.vercel.app/?username=kittinan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<iframe src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=1"></iframe>
 </div>
