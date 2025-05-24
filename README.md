@@ -26,13 +26,11 @@
     Bachelor of Business Administration - BBA, Management Information Systems and Services<br>
     <br>
     🏫 St. Joseph Higher Secondary School<br>
-    High School Diploma, Business/Commerce, General<br>
+    Business/Commerce, General<br>
     College<br>
-    Skills: Writing ✍️<br>
     <br>
     🏫 Mohammadpur Preparatory School & College<br>
     Business/Commerce, General<br>
-    Read till High School<br>
     <br>
     🏫 London Grace International School<br>
     Elementary school 🌟
