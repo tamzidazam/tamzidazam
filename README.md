@@ -3,4 +3,4 @@
 <h3 align="center">A student and a passionate developer by choice</h3>
 </div>
 <h2 align="center">My Trophies</h2>
-https://github-profile-trophy.vercel.app/?username=ryo-ma)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
