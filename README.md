@@ -17,12 +17,10 @@
   <h2 align="center">Connect with My Digital Persona! 🌐</h2>
   <p align="center">
     <a href="https://www.facebook.com/Erebus041" target="_blank" style="text-decoration: none; margin: 0 15px; display: inline-flex; align-items: center;">
-      <img src="https://raw.githubusercontent.com/tamzidazam/tamzidazam/refs/heads/main/readme/facebook.png" alt="Facebook Icon" width="40" height="40" style="margin-right: 8px;">
-      <span style="color: #66FFFF; font-weight: bold;">Facebook</span>
+      <img src="https://raw.githubusercontent.com/tamzidazam/tamzidazam/refs/heads/main/readme/facebook.png" alt="Facebook Icon" width="50" height="50" style="margin-right: 0px;">
     </a>
     <a href="http://linkedin.com/in/tamzidazam" target="_blank" style="text-decoration: none; margin: 0 15px; display: inline-flex; align-items: center;">
-      <img src="https://raw.githubusercontent.com/tamzidazam/tamzidazam/refs/heads/main/readme/linkedin.png" alt="LinkedIn Icon" width="40" height="40" style="margin-right: 8px;">
-      <span style="color: #66FFFF; font-weight: bold;">LinkedIn</span>
+      <img src="https://raw.githubusercontent.com/tamzidazam/tamzidazam/refs/heads/main/readme/linkedin.png" alt="LinkedIn Icon" width="50" height="50" style="margin-right: 0px;">
     </a>
   </p>
 </div>
