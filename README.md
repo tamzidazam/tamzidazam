@@ -17,9 +17,7 @@
   <h2 align="center">Connect with My Digital Persona! 🌐</h2>
   <p align="center">
     <a href="https://www.facebook.com/Erebus041" target="_blank" style="text-decoration: none; margin: 0 15px; display: inline-flex; align-items: center;">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="40" height="40" fill="#1877F2" style="margin-right: 8px;">
-        <path d="M12 0C5.373 0 0 5.373 0 12c0 6.016 4.388 11.006 10.125 11.854V15.43H7.228V12h2.897V9.3c0-2.848 1.74-4.416 4.29-4.416 1.22 0 2.27.09 2.578.132v2.81h-1.67c-1.312 0-1.567.624-1.567 1.53v1.984h3.13l-.508 3.43h-2.622v6.424C19.612 23.006 24 18.016 24 12 24 5.373 18.627 0 12 0z"/>
-      </svg>
+      <img src="https://raw.githubusercontent.com/tamzidazam/tamzidazam/refs/heads/main/readme/facebook.png" alt="Facebook Icon" width="40" height="40" style="margin-right: 8px;">
       <span style="color: #66FFFF; font-weight: bold;">Facebook</span>
     </a>
     <a href="http://linkedin.com/in/tamzidazam" target="_blank" style="text-decoration: none; margin: 0 15px; display: inline-flex; align-items: center;">
