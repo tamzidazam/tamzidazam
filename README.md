@@ -22,6 +22,9 @@
     <a href="http://linkedin.com/in/tamzidazam" target="_blank" style="text-decoration: none; margin: 0 15px; display: inline-flex; align-items: center;">
       <img src="https://raw.githubusercontent.com/tamzidazam/tamzidazam/refs/heads/main/readme/linkedin.png" alt="LinkedIn Icon" width="50" height="50" style="margin-right: 0px;">
     </a>
+    <a href="https://www.instagram.com/tamzidazam/" target="_blank" style="text-decoration: none; margin: 0 15px; display: inline-flex; align-items: center;">
+      <img src="https://raw.githubusercontent.com/tamzidazam/tamzidazam/refs/heads/main/readme/instagram.png" alt="Instagram Icon" width="50" height="50" style="margin-right: 0px;">
+    </a>
   </p>
 </div>
 
