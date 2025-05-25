@@ -34,6 +34,9 @@
     <a href="https://buymeacoffee.com/tamzidazam" target="_blank" style="text-decoration: none; margin: 0 15px; display: inline-flex; align-items: center;">
       <img src="https://raw.githubusercontent.com/tamzidazam/tamzidazam/refs/heads/main/readme/coffee.png" alt="Buy Me A Coffee" width="50" height="50" style="border-radius: 15px;">
     </a>
+    <a href="https://open.spotify.com/user/6bosf7kzuzirhgdhubfxocgp4" target="_blank" style="text-decoration: none; margin: 0 15px; display: inline-flex; align-items: center;">
+      <img src="https://raw.githubusercontent.com/tamzidazam/tamzidazam/refs/heads/main/readme/spotify.png" alt="Spotify" width="50" height="50">
+    </a>
   </p>
 </div>
 
