@@ -37,6 +37,9 @@
     <a href="https://open.spotify.com/user/6bosf7kzuzirhgdhubfxocgp4" target="_blank" style="text-decoration: none; margin: 0 15px; display: inline-flex; align-items: center;">
       <img src="https://raw.githubusercontent.com/tamzidazam/tamzidazam/refs/heads/main/readme/spotify.png" alt="Spotify" width="50" height="50">
     </a>
+    <a href="https://m.me/Erebus041" target="_blank" style="text-decoration: none; margin: 0 15px; display: inline-flex; align-items: center;">
+      <img src="https://raw.githubusercontent.com/tamzidazam/tamzidazam/refs/heads/main/readme/messenger.png" alt="Facebook Messenger" width="50" height="50">
+    </a>    
   </p>
 </div>
 
