@@ -28,6 +28,10 @@
     <a href="https://api.whatsapp.com/send?phone=8801516529398" target="_blank" style="text-decoration: none; margin: 0 15px; display: inline-flex; align-items: center;">
       <img src="https://raw.githubusercontent.com/tamzidazam/tamzidazam/refs/heads/main/readme/whatsapp.png" alt="Whatsapp Icon" width="50" height="50" style="margin-right: 0px;">
     </a>
+
+    <a href="https://www.facebook.com/Erebus041" target="_blank" style="text-decoration: none; margin: 0 15px; display: inline-flex; align-items: center;">
+      <img src="https://raw.githubusercontent.com/tamzidazam/tamzidazam/refs/heads/main/readme/twitter.png" alt="Twitter Icon" width="50" height="50" style="margin-right: 0px;">
+    </a>
   </p>
 </div>
 
