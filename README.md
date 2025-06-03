@@ -13,6 +13,10 @@
   <a href="https://github.com/tamzidazam?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/tamzidazam?style=flat&logo=github">
   </a>
+  <a href="https://github.com/tamzidazam">
+    <img alt="GitHub followers" src="https://img.shields.io/badge/any_text-you_like-blue">
+  </a>
+  
 </p>
 <br>
 <div>
