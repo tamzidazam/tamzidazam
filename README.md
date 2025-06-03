@@ -65,7 +65,7 @@
 <table align="center" border="0">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=tamzidazam&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&size_weight=0&count_weight=0" alt="tamzidazam" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamzidazam&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="tamzidazam" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamzidazam&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&size_weight=0&count_weight=0" alt="tamzidazam" /></td>
   </tr>
 </table>
 </div>
