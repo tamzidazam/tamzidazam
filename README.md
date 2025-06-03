@@ -61,11 +61,14 @@
 
 
 <div align="justified">
-  <h2 align="center">Stats! 🌐</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=tamzidazam&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&size_weight=0&count_weight=0" alt="tamzidazam" /></p>
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=tamzidazam&theme=material-palenight&hide_border=false" alt="tamzidazam" /></p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamzidazam&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="tamzidazam" /></p>
+<h2 align="center">Stats! 🌐</h2>
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=tamzidazam&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&size_weight=0&count_weight=0" alt="tamzidazam" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=tamzidazam&theme=material-palenight&hide_border=false" alt="tamzidazam" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamzidazam&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="tamzidazam" /></td>
+  </tr>
+</table>
 </div>
 
 <hr style="border-top: 3px dashed #888; margin: 20px auto; width: 80%;">
