@@ -62,7 +62,7 @@
 
 <div align="justified">
 <h2 align="center">Stats! 🌐</h2>
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=tamzidazam&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&size_weight=0&count_weight=0" alt="tamzidazam" /></td>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=tamzidazam&theme=material-palenight&hide_border=false" alt="tamzidazam" /></td>
