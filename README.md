@@ -58,7 +58,7 @@
     </a>    
   </p>
 </div>
-
+<hr style="border-top: 3px dashed #888; margin: 20px auto; width: 80%;">
 
 <div align="center">
 <h2 align="center">Stats! 🌐</h2>
