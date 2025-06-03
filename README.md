@@ -59,6 +59,13 @@
   </p>
 </div>
 
+## Stats
+<div>
+<p><img src="https://github-readme-stats.vercel.app/api?username=cxyfreedom&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="cxyfreedom" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=cxyfreedom&theme=material-palenight&hide_border=false" alt="cxyfreedom" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxyfreedom&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="cxyfreedom" /></p>
+</div>
+
 <hr style="border-top: 3px dashed #888; margin: 20px auto; width: 80%;">
 <div>
   <h2 align="center">Personal Data 🧠</h2>
