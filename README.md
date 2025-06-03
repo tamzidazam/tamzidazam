@@ -87,10 +87,4 @@
 </div>
 
 <hr style="border-top: 3px dashed #888; margin: 20px auto; width: 80%;">
-<div>
-  <h2 align="center">Personal Data 🧠</h2>
-  <p align="center">
-    <strong><span style="color: #00FFFF;">About Me</span></strong> 📡<br>
-    Well, What to write about myself. I am a typical web developer with extra ordinary skills and high tech knowledge. I started studying about web development since 2016 and yet learning. Well, knowledge has no end! 🌌
-  </p>
-</div>
+
