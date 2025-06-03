@@ -18,7 +18,7 @@
   </a>
   
 </p>
-<br>
+<hr style="border-top: 3px dashed #888; margin: 20px auto; width: 80%;">
 <div>
   <h2 align="center">My Github Achievements 🏆</h2>
   <p align="center">
