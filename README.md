@@ -10,9 +10,6 @@
   <a href="https://tamzidazam.eu.org">
     <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Ftamzidazam.eu.org">
   </a>
-  <a href="https://www.youtube.com/channel/UCZeubjnoztTC_RP_c4YOuYw">
-    <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCZeubjnoztTC_RP_c4YOuYw?style=flat&logo=youtube">
-  </a>
   <a href="https://github.com/tamzidazam?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/tamzidazam?style=flat&logo=github">
   </a>
