@@ -68,21 +68,4 @@
     <strong><span style="color: #00FFFF;">About Me</span></strong> 📡<br>
     Well, What to write about myself. I am a typical web developer with extra ordinary skills and high tech knowledge. I started studying about web development since 2016 and yet learning. Well, knowledge has no end! 🌌
   </p>
-  <br>
-  <p style="text-align: left;">
-    <strong>Chronicles of Knowledge Acquisition</strong> 📚<br>
-    <br>
-    🎓 North South University<br>
-    Bachelor of Business Administration - BBA, Management Information Systems and Services<br>
-    <br>
-    🏫 St. Joseph Higher Secondary School<br>
-    Business/Commerce, General
-    College<br>
-    <br>
-    🏫 Mohammadpur Preparatory School & College<br>
-    Business/Commerce, General<br>
-    <br>
-    🏫 London Grace International School<br>
-    Elementary school 🌟
-  </p>
 </div>
