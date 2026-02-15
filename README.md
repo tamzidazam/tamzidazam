@@ -18,7 +18,7 @@
   </a>
   
 </p>
-<hr style="border-top: 3px dashed #888; margin: 20px auto; width: 80%;">
+
 
 
 <hr style="border-top: 3px dashed #888; margin: 20px auto; width: 80%;">
