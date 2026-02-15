@@ -19,14 +19,7 @@
   
 </p>
 <hr style="border-top: 3px dashed #888; margin: 20px auto; width: 80%;">
-<div>
-  <h2 align="center">My Github Achievements 🏆</h2>
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=tamzidazam&theme=onedark" alt="github-profile-trophy">
-    </a>
-  </p>
-</div>
+
 
 <hr style="border-top: 3px dashed #888; margin: 20px auto; width: 80%;">
 <div>
