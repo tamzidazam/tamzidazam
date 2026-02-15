@@ -61,7 +61,7 @@
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=tamzidazam&theme=react&border=61dafb&hide_border=true" alt="tamzidazam" />
     </a>
-    
+    <img align="left" width=390 src="https://github-readme-stats-fast.vercel.app/api?username=Tamzidazam&show_icons=true&theme=radical" alt="tamzidazam" />
   </div>
   
   <br><br><br><br><br><br><br>
